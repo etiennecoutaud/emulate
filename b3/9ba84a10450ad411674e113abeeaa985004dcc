@@ -1,0 +1,23 @@
+docs/behavior.md
+  s_fefecd3f73c4a4::t_2b7aeaf9140019 333-335
+src/workos/routes/authorization-checks.spec.ts
+  s_fefecd3f73c4a4::t_a345bc54ffcba6 198-222
+src/workos/routes/authorization-checks.ts
+  s_fefecd3f73c4a4::t_1d19da2e23ba7f 458-463
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b39ba84a10450ad411674e113abeeaa985004dcc",
+  "prompts": {},
+  "sessions": {
+    "s_fefecd3f73c4a4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "74bbc9e1-268f-44a4-9ade-d91e50be0eff",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Etienne Coutaud <etienne.coutaud@genesis-ai.company>"
+    }
+  }
+}
