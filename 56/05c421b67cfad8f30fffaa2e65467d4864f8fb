@@ -1,0 +1,25 @@
+SUPPORTED.md
+  s_fefecd3f73c4a4::t_d6e455a791cd06 24,37
+docs/behavior.md
+  s_fefecd3f73c4a4::t_7679f8ebeccb76 343-346
+src/workos/routes/authorization-resources.spec.ts
+  s_fefecd3f73c4a4::t_23d94cf1d1aa7a 531-561
+src/workos/routes/authorization-resources.ts
+  s_fefecd3f73c4a4::t_c7ece17c2e743a 243-245,270-280
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5605c421b67cfad8f30fffaa2e65467d4864f8fb",
+  "prompts": {},
+  "sessions": {
+    "s_fefecd3f73c4a4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "74bbc9e1-268f-44a4-9ade-d91e50be0eff",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Etienne Coutaud <etienne.coutaud@genesis-ai.company>"
+    }
+  }
+}
